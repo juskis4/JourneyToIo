@@ -1,5 +1,5 @@
 # JourneyToIo
-
+The project was developed for the "Nasa Space Apps 2021" Hackathon, by a team of 4 people. 
 ## High-Level project summary
 Have you ever dreamed of going into space looking at the vast darkness pigmented with little stars through your spaceship? Do you want to explore space and go on adventures? Well, now it's possible! Travel to Mars and beyond with Journey to Io, an interactive cutting edge learning game. You can learn fun facts about mankind's final frontier, do real-life experiments in your spaceship, and take on thrilling space adventures (Doesn't that sound cool already?). Well, we have more in store for you in Journey to Io! Join us in Journey to Io to discover more about space!
 
@@ -21,4 +21,4 @@ We went through NASA's database to figure what risks are involved in a space mis
 Journey to Io is a journey that never ends! Through this project, we hope to invoke children's curiosity towards space and enhance their spatial awareness.
 
 ## How was this project developed?
-It was developed in the time of a weekend for the "Nasa Space Apps 2021" Hackathon, by a team of 4 people. The first episode of the story was written (called "Ship"). Moving forward the basic plan for the whole story was thought of and a selected episode (Episode 3: Botany) was written to have a working prototype of this project. Our team used "Twine Engine" to help accelerate the process of creating a working application. After exporting the application with "Ship" and "Botany", the HTML file was uploaded to a GitHub repository and hosted using GitHub Pages.
+The first episode of the story was written (called "Ship"). Moving forward the basic plan for the whole story was thought of and a selected episode (Episode 3: Botany) was written to have a working prototype of this project. Our team used "Twine Engine" to help accelerate the process of creating a working application. After exporting the application with "Ship" and "Botany", the HTML file was uploaded to a GitHub repository and hosted using GitHub Pages.
